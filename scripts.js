@@ -30,7 +30,7 @@ for(var i = 0; i < buttons.length; i++){
 	   		result.className = "changing-down";
 		}, 600);
 		result.className = "changing-right";
-		}, 600);
+		}, 400);
 	});
 }
 
